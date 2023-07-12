@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Recién titulada en Desarrollo de Aplicaciones Web. <br>El apasionante mundo de la programación me ha atrapado de tal forma que me ha hecho replantearme por completo mi carrera profesional. <br><br>Estos años de formación y el trabajo constante en la creación de proyectos me han aportado experiencia y conocimientos en lenguajes y tecnologías actuales.<br><br>🙂 Estoy deseando unirme a un equipo dinámico en el que poder aportar y a la vez crecer en este maravilloso mundo de la tecnología.<br><br>
+🖥️ Recién titulada en Desarrollo de Aplicaciones Web. <br><br>El apasionante mundo de la programación me ha atrapado de tal forma que me ha hecho replantearme por completo mi carrera profesional. <br><br>Estos años de formación y el trabajo constante en la creación de proyectos me han aportado experiencia y conocimientos en lenguajes y tecnologías actuales.<br><br>🙂 Estoy deseando unirme a un equipo dinámico en el que poder aportar y a la vez crecer en este maravilloso mundo de la tecnología.<br><br>
 
 
 ## 🌐 Socials:
