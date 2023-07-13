@@ -13,7 +13,7 @@
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-ortega-z) <br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="width:20px;heigth:20px"/> 
-<a style="text-decoration:none">genkidama.sara@gmail.com </a>
+<a style="text-decoration:none; color:white"> genkidama.sara@gmail.com </a>
 
 # 📊 GitHub Stats:
 
