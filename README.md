@@ -11,8 +11,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
 ## 🌐 Redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-ortega-z) 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="width:20px;heigth:20px"/> <span style="text-decoration:none">genkidama.sara@gmail.com</span>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-ortega-z) <br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="width:20px;heigth:20px"/> 
+<a style="text-decoration:none">genkidama.sara@gmail.com </a>
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dahliares&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
