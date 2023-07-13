@@ -1,7 +1,6 @@
 <h1 align="center">Hola! 👋 Soy Sara Ortega</h1>
-<h3 align="center">Recien Titulada en DESARROLLO DE APLICACIONES WEB</h3> 
-<br><br>El apasionante mundo de la programación me ha atrapado de tal forma que me ha hecho replantearme por completo mi carrera profesional. <br><br>Estos años de formación y el trabajo constante en la creación de proyectos me han aportado experiencia y conocimientos en lenguajes y tecnologías actuales.<br><br>🙂 Estoy deseando unirme a un equipo dinámico en el que poder aportar y a la vez crecer en este maravilloso mundo de la tecnología.<br><br>
-
+<h3 align="center">Recién Titulada en DESARROLLO DE APLICACIONES WEB</h3> 
+<br><br>El apasionante mundo de la programación me ha atrapado de tal forma que me ha hecho replantearme por completo mi carrera profesional. Dar un giro de esté nivel a mi vida no va a ser fácil, pero siento que es lo correcto. Por fin he encontrado mi vocación, cosa que ya daba por perdida. Ahora sé lo que quiero, decidí volver a las aulas contra viento y marea y aquí estoy dispuesta a lograr mi objetivo. <br><br>Estos últimos años de formación y el trabajo constante en la creación de proyectos personales me han aportado la experiencia y los conocimientos que necesitaba en lenguajes y tecnologías actuales.<br><br>🙂 Estoy deseando unirme a un equipo dinámico en el que poder sumar y a la vez crecer en este maravilloso mundo de la tecnología.<br><br>
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-ortega-z) 
