@@ -12,7 +12,7 @@
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-ortega-z) 
-<img src="[https://es.m.wikipedia.org/wiki/Archivo:Gmail_icon_%282020%29.svg](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg)" style="width:20px;heigth:20px"/> genkidama.sara@gmail.com
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="width:20px;heigth:20px"/> <span style="text-decoration:none">genkidama.sara@gmail.com</span>
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dahliares&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
